@@ -13,3 +13,13 @@
 2. เปิดบิลที่มีการ Register Payment และ reconcile แล้ว
 3. ระบบจะแสดงฟิลด์ `Payment Number` เป็นรายการเลขที่ Payment (คั่นด้วยเครื่องหมาย ,)
 
+### Task Summary (รายการที่ทำในงานนี้)
+- ตรวจสอบโครงสร้างโมดูลและข้อมูลใน `__manifest__.py`
+- เพิ่มคู่มือการใช้งาน/ติดตั้ง: `README.md`, `INSTALL.md`
+- ปรับแพ็กเกจสำหรับปล่อยงานให้เป็นโมดูลเดียว (1 module) และจัดโครงสร้าง zip ให้ถูกต้อง
+- อัปโหลดซอร์สขึ้น GitHub repository
+
+### Credits
+
+Development Team: The Auto-Info Co., Ltd. : Dev Team / Mr. Nattanon Vinyangkoon – Project conception, implementation, and thorough review of all deliverables.
+AI Coding Assistant: TRAE SOLO / MICROSOFT 365 COPILOT - Utilized to support code generation and productivity improvements under human oversight (e.g., suggesting code snippets and optimizations).
